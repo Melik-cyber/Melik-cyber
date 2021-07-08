@@ -10,10 +10,6 @@
 - 🥅 2020 Goals: I have a banned Github account :D
 - ⚡ Fun fact: I love to hang out with my friends and coding etc.
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-!! Melik †.vercel.app/api/spotify-playing" alt="Melik-cyber Spotify Playing" width="350" />](https://open.spotify.com/user/mby5t826phc98w76yxi3xovx3?si=e480ebb1b1af4300)
-
 ### Connect with me:
 
 [<img align="left" alt="Melik-cyber | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/channel/UCzRnNKLdlqeWJlNPZhMbfWA]
