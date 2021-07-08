@@ -25,14 +25,6 @@
 - [How To Upload Project To GitHub](https://www.youtube.com/watch?v=mvcdy6ClbsE&t=1s&ab_channel=xanny)
 <!-- YOUTUBE:END -->
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Melik-cyber's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Melik-cyber&show_icons=true&hide_border=true" />
-
-</details>
-
 [youtube]: https://www.youtube.com/channel/UCzRnNKLdlqeWJlNPZhMbfWA
 [instagram]: https://www.instagram.com/melikerdemkoc/
 [linkedin]: https://www.linkedin.com/in/melikcyber/
