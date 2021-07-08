@@ -1,6 +1,6 @@
 ### Hi there, I'm Melik - aka [Xanny](https://www.youtube.com/channel/UCzRnNKLdlqeWJlNPZhMbfWA) 👋
 
-[![YouTube](https://iasbh.tmgrup.com.tr/42587f/366/218/13/0/578/337?u=https://isbh.tmgrup.com.tr/sbh/2018/01/31/youtube-1517377660692.jpg)](https://www.youtube.com/channel/UCzRnNKLdlqeWJlNPZhMbfWA)
+[![YouTube]](https://www.youtube.com/channel/UCzRnNKLdlqeWJlNPZhMbfWA)
 
 ## I'm a Student, Children, Developer, and Adolescent!!
 
